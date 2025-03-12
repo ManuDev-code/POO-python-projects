@@ -65,7 +65,7 @@ while True:
         print("\x1b[1;31mEs posible que necesites conexión a internet para la traducción.\x1b[0m")
 # import openai
 
-# openai.api_base = "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"
+# openai.api_base = ""
 
 # system_rol = """Toma el rol de un analizador de sentimientos.
 #                 Yo te paso sentimientos y tu analizas el sentimiento de los mensajes y me entregas una respuesta con al menos 1 caracter y como máximo 4 caracteres. SOLO RESPUESTAS NUMÉRICAS. Donde -1 es negatividad máxima, 0 es neutral y 1 es positividad máxima. (Puedes responder solo con ints o floats)"""
