@@ -1,0 +1,11 @@
+Manteiniblidad: El código puede mantenerse en el tiempo
+Reusabilidad: Todos los componentes deben ser reutilizables
+Legibilidad: Nombres intuitivos, comentar códigos, seguir comisiones de estilo
+Extensibilidad: El software puede extenderse sin afectar el código que ya existe
+
+"S, principio de responsabilidad único"     "Single"
+"O, principio de abierto / cerrado"         "Open/Close"
+"L, principio de sustitucion de Liskvok"    "Lisvok"
+"I, principio de segregación de interfaz"   "Interfaz"
+"D, principio de inversion de dependencias" "Dependencies"
+
